@@ -1,16 +1,14 @@
-### Hi there 👋
+# Williams Araújo :man_technologist:
 
-<!--
-**willmaraujo/willmaraujo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/lucasgdb)](https://github.com/willmaraujo/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/williams-ara%C3%BAjo-46741259/)](https://www.linkedin.com/in/rebeccamanzi/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rebeccamanzi@gmail.com)](mailto:crfwilliams@gmail.com)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/willm.araujo/)](https://www.instagram.com/willm.araujo/)
 
-Here are some ideas to get you started:
+### Hi there 👋 Welcome to my profile
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 🔭 I’m currently working with Angular 8 and SpringBoot
+- 🌱 I’m currently learning ReactNative and Vue.js
+- 👯 I’m looking to collaborate with any kind of web application projects
+
