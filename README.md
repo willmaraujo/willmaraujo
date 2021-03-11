@@ -8,7 +8,7 @@
 ### Hi there 👋 Welcome to my profile
 
 
-- 🔭 I’m currently working with Angular 8 and SpringBoot
-- 🌱 I’m currently learning ReactNative and Vue.js
+- 🔭 I’m currently working as Java Developer
+- 🌱 I’m currently learning Apache Kafka
 - 👯 I’m looking to collaborate with any kind of web application projects
 
