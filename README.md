@@ -10,5 +10,4 @@
 
 - 🔭 I’m currently working as Java Developer
 - 🌱 I’m currently learning Apache Kafka
-- 👯 I’m looking to collaborate with any kind of web application projects
 
