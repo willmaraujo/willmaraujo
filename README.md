@@ -10,7 +10,3 @@
 - 🔭 I’m currently working as Java Developer
 - 🌱 I’m currently learning Apache Kafka
 
-### Metrics
-
-![Metrics](https://metrics.lecoq.io/willmaraujo?template=terminal&lines=1&base.indepth=false&config.timezone=Europe%2FBrussels)
-
