@@ -8,5 +8,5 @@
 
 
 - 🔭 I’m currently working as Java Developer
-- 🌱 I’m currently learning Apache Kafka
+- 🌱 I’m currently learning Machine Learning
 
